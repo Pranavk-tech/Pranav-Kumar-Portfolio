@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOURDOMAIN.com/sitemap.xml
+Sitemap: https://https://pranavk-tech.github.io/Pranav-Kumar-Portfolio//sitemap.xml
